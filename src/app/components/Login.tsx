@@ -109,14 +109,14 @@ export function Login({ onLogin }: LoginProps) {
             <div className="inline-flex items-center justify-center bg-blue-600 text-white h-16 w-16 rounded-full mb-4">
               <Building2 className="h-8 w-8" />
             </div>
-            <h1 className="text-3xl mb-2">Premier Properties</h1>
-            <p className="text-gray-600">Your Home, Our Priority</p>
+            <h1 className="text-3xl mb-2">Family First Residential Management</h1>
+            <p className="text-gray-600">Caring for their home, so you can care for them.</p>
           </div>
 
           <div className="bg-white rounded-2xl shadow-xl p-8">
             <div className="mb-8">
-              <h2 className="text-2xl mb-2">Welcome Back!</h2>
-              <p className="text-gray-600">Sign in to access your resident portal</p>
+              <h2 className="text-2xl mb-2">Welcome to Family First!</h2>
+              <p className="text-gray-600">Sign in to access your resident account</p>
             </div>
 
             <form onSubmit={handleSubmit} className="space-y-6">
