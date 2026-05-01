@@ -37,7 +37,7 @@ export function Login({ onLogin }: LoginProps) {
               </div>
               <div>
                 <h1 className="text-4xl">Family First Residential Management</h1>
-                <p className="text-blue-100">Your Home, Our Priority</p>
+                <p className="text-blue-100">Caring for their home, so you can care for them.</p>
               </div>
             </div>
           </div>
