@@ -78,7 +78,7 @@ export function Login({ onLogin }: LoginProps) {
                 <Shield className="h-6 w-6" />
               </div>
               <div>
-                <h3 className="text-xl mb-1">Secure & Private</h3>
+                <h3 className="text-xl mb-1">asdfsadfasdfasdfas</h3>
                 <p className="text-blue-100">Your information is protected with industry-leading security</p>
               </div>
             </div>
